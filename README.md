@@ -1,5 +1,5 @@
-# Hi
+# New Branch
 
 My first repository
 
-I love my :dog: and :pizza:.
+I love my :cat: and :bread:.
